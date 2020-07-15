@@ -21,7 +21,7 @@ Nickname: 旋風之音 GoneTone
   <img src="https://raw.githubusercontent.com/GoneTone/GoneTone/master/images/svg/social/twitter-brands.svg" height="16px" alt="Twitter"> Twitter
 </a>
 <br>
-<a href="https://donate.reh.tw/">
+<a href="https://discord.reh.tw/">
   <img src="https://raw.githubusercontent.com/GoneTone/GoneTone/master/images/svg/social/discord-brands.svg" height="16px" alt="Discord"> Discord
 </a>
 
