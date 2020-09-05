@@ -6,7 +6,9 @@ Name: 張文相 Zhang Wenxiang
 <br>
 Nickname: 旋風之音 GoneTone
 
-<img src="https://github-readme-stats.vercel.app/api?username=GoneTone&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats">
+[![](https://raw.githubusercontent.com/GoneTone/GoneTone/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/GoneTone)
+[![](https://raw.githubusercontent.com/GoneTone/GoneTone/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/GoneTone)
+[![](https://raw.githubusercontent.com/GoneTone/GoneTone/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/GoneTone)
 
 ## <img src="https://raw.githubusercontent.com/GoneTone/GoneTone/master/images/svg/social/users-solid.svg" height="24px" alt="Social"> Social
 <a href="https://blog.reh.tw/">
