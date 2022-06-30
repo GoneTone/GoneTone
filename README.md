@@ -4,7 +4,7 @@ I’m a student who from Taiwan. I enjoy coding and I have developed a few proje
 
 ## <img src="https://raw.githubusercontent.com/GoneTone/GoneTone/master/images/svg/profile/id-card-solid.svg" height="24px" alt="Profile"> Profile
 
-Name: 張文相 Zhang Wenxiang
+Name: 張文相 Wenxiang Zhang
 <br>
 Nickname: 旋風之音 GoneTone
 
