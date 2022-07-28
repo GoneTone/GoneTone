@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/GoneTone/GoneTone/master/images/svg/github-brands.svg" height="28px" alt="GitHub"> Welcome to my GitHub profile!
 
-I’m a student who from Taiwan. I enjoy coding and I have developed a few projects.
+I'm a web developer from Taiwan :)
 
 ## <img src="https://raw.githubusercontent.com/GoneTone/GoneTone/master/images/svg/profile/id-card-solid.svg" height="24px" alt="Profile"> Profile
 
