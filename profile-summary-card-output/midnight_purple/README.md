@@ -6,19 +6,29 @@
 ### Now you can add this to your markdown
 ```
 
-[![](https://raw.githubusercontent.com/GoneTone/GoneTone/master/profile-summary-card-output/midnight_purple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/GoneTone/GoneTone/master/profile-summary-card-output/midnight_purple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/GoneTone/GoneTone/master/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/GoneTone/GoneTone/master/profile-summary-card-output/midnight_purple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/GoneTone/GoneTone/master/profile-summary-card-output/midnight_purple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/GoneTone/GoneTone/main/profile-summary-card-output/midnight_purple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/GoneTone/GoneTone/main/profile-summary-card-output/midnight_purple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/GoneTone/GoneTone/main/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/GoneTone/GoneTone/main/profile-summary-card-output/midnight_purple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/GoneTone/GoneTone/main/profile-summary-card-output/midnight_purple/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ```
 
 ### Each card usage
 ---
 
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/GoneTone/GoneTone/main/profile-summary-card-output/midnight_purple/0-profile-details.svg)
+```
+
+    
+
+---
+
 ![](./1-repos-per-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/GoneTone/GoneTone/master/profile-summary-card-output/midnight_purple/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/GoneTone/GoneTone/main/profile-summary-card-output/midnight_purple/1-repos-per-language.svg)
 ```
 
     
@@ -28,7 +38,17 @@
 ![](./2-most-commit-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/GoneTone/GoneTone/master/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/GoneTone/GoneTone/main/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/GoneTone/GoneTone/main/profile-summary-card-output/midnight_purple/3-stats.svg)
 ```
 
     
@@ -38,7 +58,7 @@
 ![](./4-productive-time.svg)
 
 ```
-![](https://raw.githubusercontent.com/GoneTone/GoneTone/master/profile-summary-card-output/midnight_purple/4-productive-time.svg)
+![](https://raw.githubusercontent.com/GoneTone/GoneTone/main/profile-summary-card-output/midnight_purple/4-productive-time.svg)
 ```
 
     
